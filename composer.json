@@ -1,0 +1,7 @@
+{
+  "name": "crispy-computing-machine/extensionstubgenerator",
+  "description": "PHP Extension Stub Generator",
+  "require": {
+    "php": ">=7.4"
+  }
+}
