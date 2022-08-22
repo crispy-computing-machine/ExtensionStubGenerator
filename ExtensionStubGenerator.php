@@ -1,5 +1,5 @@
 <?php
-namespace CoreLibrarys;
+namespace Util;
 
 use ReflectionClass;
 use ReflectionException;
